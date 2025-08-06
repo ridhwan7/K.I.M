@@ -2,6 +2,7 @@
 
 A fast-paced, action-packed **2D PvP game** built with C#. Battle your friends in local multiplayer on the same laptop. Jump, dodge, attack — last player standing wins!
 
+[Play K.I.M](https://www.gamepix.com/play/k-i-m)
 ---
 
 ## 🎮 Game Features
